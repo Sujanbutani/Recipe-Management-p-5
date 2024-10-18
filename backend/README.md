@@ -31,7 +31,7 @@ The API uses Node.js, Express.js, JWT for authentication, and MongoDB as the dat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Sujanbutani/Task-Management-p-2-.git
+   git clone https://github.com/Sujanbutani/Recipe-Management-p-5.git
 
 2. Install dependencies:
 
