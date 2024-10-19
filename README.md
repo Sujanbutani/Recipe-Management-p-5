@@ -50,7 +50,7 @@ The API uses Node.js, Express.js, JWT for authentication, and MongoDB as the dat
 
    ```bash
     npm start
-    The server should now be running at http://localhost:8000
+    The server should now be running at http://localhost:5000
    ```
 
 ## API Endpoints
